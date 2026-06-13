@@ -395,7 +395,7 @@ export default function Home() {
   <div className="bg-[#4a3b2f] rounded-2xl p-8 space-y-5">
 
     <p className="text-xs text-gray-300 tracking-wide">
-      REDFIN PRINCIPAL AGENT
+      SOTHEBY INTERNATIONAL REALTY
     </p>
 
     <h2 className="text-4xl font-serif">
