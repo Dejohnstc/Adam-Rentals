@@ -61,7 +61,7 @@ function AnimatedStat({
   return (
     <div
       ref={ref}
-      className="bg-[#151821] border border-white/5 rounded-xl p-6 text-center hover:bg-[#1c2029] transition transform hover:-translate-y-1"
+      className="bg-[#002349] border border-white/5 rounded-xl p-6 text-center hover:bg-[#1c2029] transition transform hover:-translate-y-1"
     >
       <p className="text-3xl font-semibold">
         {prefix}
@@ -133,7 +133,7 @@ export default function Home() {
 <div className="fixed top-0 left-0 w-full z-50">
 
   {/* GLASS BACKDROP */}
-  <div className="absolute inset-0 bg-[#241c16]/75 backdrop-blur-2xl border-b border-white/10" />
+  <div className="absolute inset-0 bg-[#002349]/75 backdrop-blur-2xl border-b border-white/10" />
 
   {/* GOLD TOP LINE */}
   <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-[#d4af37]/60 to-transparent" />
